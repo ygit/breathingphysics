@@ -1,4 +1,4 @@
-# breathingphysics
+# Breathing Physics
 Hello Physics Fans 👋  Φυσική αναπνοής 👨‍🔬
 
 Twitter: https://twitter.com/breathingphy
